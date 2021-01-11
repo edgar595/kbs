@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KBS-BOOKING</string>
+    <string name="image">image</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+
+    <string name="main_url">http://192.168.0.13/melo-bus-booking/index.php?signIn=1</string>
+
+    <string name="instagram_link">https://www.instagram.com</string>
+    <string name="youtube_link">https://www.youtube.com</string>
+    <string name="facebook_link">https://www.facebook.com</string>
+    <string name="facebook_page_id">2</string>
+
+    <string name="about_us_developer">Developer</string>
+    <string name="about_us_developer_name">Melvin</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">kbsbooking@gmail.com</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">"+254712345678</string>
+    <string name="about_us_about">About Us</string>
+    <string name="about">About</string>
+    <string name="about_description">This is a final year project for bus booking for KBS bus services within Nairobi.
+    </string>
+
+    <string name="sure_quit">Are you sure you want to quit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+</resources>
